@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "780892188533",
+    "project_id": "rentalmobil-e688d",
+    "storage_bucket": "rentalmobil-e688d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780892188533:android:38f0f708f0817b96c8ad3c",
+        "android_client_info": {
+          "package_name": "com.acenkzproject.myfuitlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780892188533-1shmr6a65hdih6g03g0gl0msrog08mtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW-8gGmkrJnG1dco1VYnqblAQte6Q975k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780892188533-1shmr6a65hdih6g03g0gl0msrog08mtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780892188533:android:6da0192900330f3bc8ad3c",
+        "android_client_info": {
+          "package_name": "com.acenkzproject.rentcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780892188533-1shmr6a65hdih6g03g0gl0msrog08mtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW-8gGmkrJnG1dco1VYnqblAQte6Q975k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780892188533-1shmr6a65hdih6g03g0gl0msrog08mtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

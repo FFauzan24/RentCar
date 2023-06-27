@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_add_mobil">
+
+    <fragment
+        android:id="@+id/navigation_add_mobil"
+        android:name="com.acenkzproject.rentcar.Fragment.admin.FragmentListMobil">
+        <argument
+            android:name="username"
+            app:argType="string"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_order"
+        android:name="com.acenkzproject.rentcar.Fragment.admin.FragmentAllList">
+        <argument
+            android:name="username"
+            app:argType="string"/>
+    </fragment>
+
+</navigation>
